@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django Framework**
 
 - 📫 How to reach me **jrazuri98@hotmail.com**
 
