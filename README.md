@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Django REST Framework**
 
-- 📫 Podes contactarme en **jrazuri98@hotmail.com** o en **https://www.linkedin.com/in/joel-r%C3%A1zuri-835696211/**
+- 📫 Podes contactarme en **jrazuri98@hotmail.com** o en **https://www.linkedin.com/in/joelrazuri/**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left"> 
